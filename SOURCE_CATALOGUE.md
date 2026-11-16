@@ -1,0 +1,75 @@
+- **The Daily Star** (Bangladesh / Bangladesh): `https://www.thedailystar.net/frontpage/rss.xml`
+- **Prothom Alo** (Bangladesh / Bangladesh): `https://en.prothomalo.com/feed`
+- **Dhaka Tribune** (Bangladesh / Bangladesh): `https://www.dhakatribune.com/feed`
+- **New Age** (Bangladesh / Bangladesh): `https://www.newagebd.net/rss.xml`
+- **The Financial Express** (Bangladesh / Bangladesh): `https://thefinancialexpress.com.bd/feed`
+- **The Business Standard** (Bangladesh / Bangladesh): `https://www.tbsnews.net/rss.xml`
+- **Daily Observer** (Bangladesh / Bangladesh): `https://www.observerbd.com/rss.xml`
+- **Bangladesh Sangbad Sangstha (BSS)** (Bangladesh / Bangladesh): `https://www.bssnews.net/rss.xml`
+- **bdnews24.com** (Bangladesh / Bangladesh): `https://bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true`
+- **UNB (United News of Bangladesh)** (Bangladesh / Bangladesh): `https://unb.com.bd/feed`
+- **Bangla Tribune** (Bangladesh / Bangladesh): `https://www.banglatribune.com/feed`
+- **Jugantor** (Bangladesh / Bangladesh): `https://www.jugantor.com/feed/rss.xml`
+- **Samakal** (Bangladesh / Bangladesh): `https://samakal.com/feed`
+- **The Daily Ittefaq** (Bangladesh / Bangladesh): `https://www.ittefaq.com.bd/feed`
+- **Kaler Kantho** (Bangladesh / Bangladesh): `https://www.kalerkantho.com/rss.xml`
+- **Bangladesh Pratidin** (Bangladesh / Bangladesh): `https://www.bd-pratidin.com/rss.xml`
+- **RTV Online** (Bangladesh / Bangladesh): `https://www.rtvonline.com/rss.xml`
+- **Jamuna TV** (Bangladesh / Bangladesh): `https://jamuna.tv/feed`
+- **Somoy TV** (Bangladesh / Bangladesh): `https://www.somoynews.tv/feed`
+- **Independent Television** (Bangladesh / Bangladesh): `https://independent24.com/feed`
+- **Channel 24** (Bangladesh / Bangladesh): `https://www.channel24bd.tv/feed`
+- **Ekattor TV** (Bangladesh / Bangladesh): `https://ekattor.tv/feed`
+- **Reuters** (International / Rest of the World): `https://news.google.com/rss/search?q=site:reuters.com+world&hl=en-US&gl=US&ceid=US:en`
+- **Associated Press (AP)** (International / North America): `https://news.google.com/rss/search?q=site:apnews.com+world&hl=en-US&gl=US&ceid=US:en`
+- **BBC News** (International / Europe): `https://feeds.bbci.co.uk/news/world/rss.xml`
+- **CNN International** (International / North America): `http://rss.cnn.com/rss/edition_world.rss`
+- **Al Jazeera English** (International / Middle East): `https://www.aljazeera.com/xml/rss/all.xml`
+- **France 24** (International / Europe): `https://www.france24.com/en/rss`
+- **DW (Deutsche Welle)** (International / Europe): `https://rss.dw.com/rdf/rss-en-world`
+- **The Guardian** (International / Europe): `https://www.theguardian.com/world/rss`
+- **The New York Times** (International / North America): `https://rss.nytimes.com/services/xml/rss/nyt/World.xml`
+- **The Washington Post** (International / North America): `https://feeds.washingtonpost.com/rss/world`
+- **Financial Times** (International / Europe): `https://www.ft.com/world?format=rss`
+- **Bloomberg** (International / North America): `https://feeds.bloomberg.com/politics/news.rss`
+- **The Economist** (International / Europe): `https://www.economist.com/international/rss.xml`
+- **Sky News** (International / Europe): `https://feeds.skynews.com/feeds/rss/world.xml`
+- **CNBC International** (International / North America): `https://www.cnbc.com/id/100727362/device/rss/rss.html`
+- **NHK World Japan** (International / Rest of the World): `https://www3.nhk.or.jp/rss/news/cat6.xml`
+- **Nikkei Asia** (International / Rest of the World): `https://asia.nikkei.com/rss/feed/nar`
+- **South China Morning Post** (International / Rest of the World): `https://www.scmp.com/rss/91/feed`
+- **ANI (Asian News International)** (Regional / India): `https://www.aninews.in/rss/feed/`
+- **The Hindu** (Regional / India): `https://www.thehindu.com/news/national/feeder/default.rss`
+- **The Indian Express** (Regional / India): `https://indianexpress.com/section/india/feed/`
+- **Hindustan Times** (Regional / India): `https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml`
+- **Times of India** (Regional / India): `https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms`
+- **WION** (Regional / India): `https://www.wionews.com/feeds/world.xml`
+- **Dawn (Pakistan)** (Regional / South Asia): `https://www.dawn.com/feeds/home`
+- **Geo News** (Regional / South Asia): `https://www.geo.tv/rss/1/1`
+- **The Express Tribune** (Regional / South Asia): `https://tribune.com.pk/feed/home`
+- **Arab News** (Regional / Middle East): `https://www.arabnews.com/rss.xml`
+- **Gulf News** (Regional / Middle East): `https://gulfnews.com/rss`
+- **Middle East Eye** (Regional / Middle East): `https://www.middleeasteye.net/rss`
+- **The National (UAE)** (Regional / Middle East): `https://www.thenationalnews.com/arc/outboundfeeds/rss/`
+- **Iran International** (Regional / Middle East): `https://www.iranintl.com/en/feed`
+- **TASS Russian News Agency** (Regional / Europe): `https://tass.com/rss/v2.xml`
+- **RT International** (Regional / Europe): `https://www.rt.com/rss/news/`
+- **The Kyiv Independent** (Regional / Europe): `https://kyivindependent.com/feed/`
+- **Ukrainska Pravda** (Regional / Europe): `https://www.pravda.com.ua/eng/rss/view_news/`
+- **Myanmar Now** (Regional / Myanmar): `https://myanmar-now.org/en/feed/`
+- **The Irrawaddy** (Regional / Myanmar): `https://www.irrawaddy.com/feed`
+- **Frontier Myanmar** (Regional / Myanmar): `https://www.frontiermyanmar.net/en/feed/`
+- **ISPR Bangladesh (Official Directorate)** (Official / Bangladesh): `https://www.ispr.gov.bd/feed/`
+- **Bangladesh Ministry of Foreign Affairs (MoFA)** (Official / Bangladesh): `https://mofa.gov.bd/site/view/press_release/rss.xml`
+- **Bangladesh PID (Press Information Dept)** (Official / Bangladesh): `https://pressinform.gov.bd/feed`
+- **United Nations (UN News)** (Official / Rest of the World): `https://news.un.org/feed/subscribe/en/news/all/rss.xml`
+- **UN Security Council (UNSC Press)** (Official / Rest of the World): `https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/rss.xml`
+- **NATO Official Newsroom** (Official / Europe): `https://www.nato.int/cps/en/natohq/rss.xml`
+- **European Union (EEAS Diplomatic Service)** (Official / Europe): `https://www.eeas.europa.eu/eeas/rss_en`
+- **US Department of State** (Official / North America): `https://www.state.gov/rss-feed/press-releases/feed/`
+- **US Department of Defense (Pentagon)** (Official / North America): `https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=945`
+- **UK Ministry of Defence (GOV.UK)** (Official / Europe): `https://www.gov.uk/government/organisations/ministry-of-defence.atom`
+- **Indian Ministry of External Affairs (MEA)** (Official / India): `https://www.mea.gov.in/rss.xml`
+- **Indian Ministry of Defence (PIB Defence)** (Official / India): `https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3`
+- **Pakistan Ministry of Foreign Affairs (MoFA)** (Official / South Asia): `https://mofa.gov.pk/feed/`
+- **UN Peacekeeping Operations** (Official / Rest of the World): `https://peacekeeping.un.org/en/rss.xml`
